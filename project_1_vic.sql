@@ -48,7 +48,7 @@ limit 1;
 
 --Q8. Identify any other key debt trends and summarize your findings.
 
--- Summary;
+# Summary;
 --Introduction
 --In this project, I analyzed a dataset on international debt to understand how much different countries owe, what types of debt exist, and which nations have the highest depts. Using SQL, I wrote queries to answer key questions below.
 
