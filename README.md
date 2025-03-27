@@ -1,7 +1,7 @@
 # SQL_Projects
 
 # Article;
---Introduction
+* Introduction
 --In this project, I analyzed a dataset on international debt to understand how much different countries owe, what types of debt exist, and which nations have the highest depts. Using SQL, I wrote queries to answer key questions below.
 
 -- Question 1: How much debt do all the countries in the dataset owe in total?
