@@ -38,7 +38,7 @@
 -- Question 8: Exploring Additional Debt Trends
 -- Debt by region – Some regions owe far more than others.
 
--- COnclusion:
+* Conclusion:
 --The total global debt is enormous, showing how much countries rely on borrowing.
 -- Some countries have extremely high debt, while others are paying it back at a fast rate.
 -- External debt stocks are the most common type of debt.
