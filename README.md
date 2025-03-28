@@ -1,6 +1,7 @@
 # SQL_Projects
 
-# Article;
+# Article 1;
+#Project_1
 * Introduction
 --In this project, I analyzed a dataset on international debt to understand how much different countries owe, what types of debt exist, and which nations have the highest depts. Using SQL, I wrote queries to answer key questions below.
 
@@ -43,3 +44,64 @@
 -- Some countries have extremely high debt, while others are paying it back at a fast rate.
 -- External debt stocks are the most common type of debt.
 -- Global debt levels are continuously increasing, highlighting potential financial risks.
+
+# ARTICLE 2:
+# Project_2
+* Introduction
+This article explores key SQL queries that help businesses analyze transactions, customer behavior, and revenue patterns, enabling them to improve sales and customer engagement.
+
+* 1. Analyzing Transactions by City
+Understanding where most transactions occur helps businesses allocate resources and tailor marketing efforts to high-performing locations.
+This query provides a ranked list of cities based on transaction volume, helping businesses focus on areas with the highest customer activity.
+
+* 2. Identifying Top-Selling Products
+Knowing which products sell the most allows businesses to optimize inventory and maximize revenue.
+ Identifying best-selling products helps businesses focus on stocking high-demand items and running effective promotions.
+
+* 3. Analyzing Average Transaction Amount by Category
+Understanding how much customers spend on different product categories helps businesses refine pricing and marketing strategies.
+Categories with higher average transactions may indicate premium products, suggesting opportunities for upselling or premium pricing strategies.
+
+* 4. Most Used Payment Methods
+Knowing the most popular payment method helps businesses enhance payment options and reduce transaction failures.
+Businesses can optimize checkout processes based on customer preferences, ensuring seamless payments.
+
+* 5. Identifying Loyal Customers (High Transaction Volume)
+Recognizing repeat customers helps businesses build loyalty programs and personalized marketing campaigns.
+Rewarding high-value customers with discounts or exclusive offers can increase brand loyalty.
+
+* 6. Tracking New Customers Without Purchases
+Identifying new customers who haven’t made purchases helps businesses refine onboarding and engagement strategies.
+Businesses can send personalized welcome offers to engage new customers.
+
+* 7. Analyzing Annual Revenue Trends
+Tracking annual revenue helps businesses measure growth and identify sales fluctuations.
+Businesses can analyze year-over-year growth and adjust strategies accordingly.
+
+* 8. Counting Unique Products Sold by Category
+Understanding product diversity within each category helps businesses manage inventory efficiently.
+Identifying underperforming categories allows businesses to diversify product offerings.
+
+* 9. Customers Buying from Multiple Categories
+Recognizing customers who purchase across categories helps businesses boost cross-selling and upselling strategies.
+Offering bundle deals or personalized recommendations can increase sales volume.
+
+* 10. Most Popular Purchase Day of the Week
+Knowing peak shopping days helps businesses plan promotions and staffing effectively.
+Running promotions on peak days can boost sales significantly.
+
+* 11. Top-Spending Customers in the Last Year
+Identifying high-spenders helps businesses prioritize VIP customers.
+Offering exclusive rewards to high-spending customers can increase retention.
+
+* 12. Revenue Contribution by Category
+Understanding how much each category contributes to total revenue informs pricing and marketing strategies.
+Insight: Prioritizing high-revenue categories can maximize profits.
+
+* 13. Month-over-Month Sales Growth
+Tracking monthly sales growth helps businesses measure performance and seasonal trends.
+Identifying seasonal trends allows businesses to strategically plan sales and marketing campaigns.
+
+
+* Conclusion
+SQL is a powerful tool for businesses to analyze sales, customer behavior, and financial performance.
